@@ -64,11 +64,9 @@ Geekbench 6 CPU and GPU
 
 ![Geekbench](https://github.com/moesuito/Hackintosh_EFI_X99-F8_Xeon-E5-1660-V3_Radeon-RX6600/assets/57041838/b02d3741-35f3-4ccd-b5ce-9ed96ecc7634)
 
-
 Cinebench R23
 
-![Captura de Tela 2023-11-06 às 22 46 17](https://github.com/moesuito/Hackintosh_EFI_X99-F8_Xeon-E5-1660-V3_Radeon-RX6600/assets/57041838/3c3255ba-b013-48ec-8b74-76d345066c3c)
-
+![Captura de Tela 2023-11-06 às 23 01 55](https://github.com/moesuito/Hackintosh_EFI_X99-F8_Xeon-E5-1660-V3_Radeon-RX6600/assets/57041838/b47ee4ee-a9cd-42d4-a550-d2b0487ba629)
 
 PugetBench for Premiere Pro 2023
 
