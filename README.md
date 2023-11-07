@@ -67,7 +67,8 @@ Geekbench 6 CPU and GPU
 
 Cinebench R23
 
-- ** Cooming soon **
+![Captura de Tela 2023-11-06 às 22 46 17](https://github.com/moesuito/Hackintosh_EFI_X99-F8_Xeon-E5-1660-V3_Radeon-RX6600/assets/57041838/3c3255ba-b013-48ec-8b74-76d345066c3c)
+
 
 PugetBench for Premiere Pro 2023
 
