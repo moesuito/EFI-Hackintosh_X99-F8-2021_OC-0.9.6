@@ -52,7 +52,6 @@
 **Enable**
 - Above 4G decoding
 - EHCI/XHCI Hand-off
-- OS type: Windows 8.1/10 UEFI Mode
 - SATA Mode: AHCI
 
 ## Benchmarks
