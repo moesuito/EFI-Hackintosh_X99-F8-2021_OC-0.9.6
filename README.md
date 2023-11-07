@@ -3,7 +3,7 @@
 ## Features
 - MacOS Ventura 14.1 Support
 - Fenvi HB-1200 (BCM4360) Full Support (Please patch with <a href="https://github.com/dortania/OpenCore-Legacy-Patcher"> OpenCore Legacy Patcher</a> after fresh install)
-- AMD RNDA1 and RDNA2 Support (agdpmod-pikera)
+- AMD RNDA1 and RDNA2 Support (agdpmod=pikera)
 - All USBs mapped
 - Only two rear USB 3.0 (bottom ports) is not working (Thanks XHCI Port Limit!)
 - Front USB 3.0 Working
@@ -80,4 +80,4 @@ PugetBench for After Effects 2024
 - <p>Special thnx to <a href="https://github.com/luchina-gabriel/"> Gabriel Luchina</a></p>
 - <p>His knowledge and repository <a href="https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E"> BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E</a></p>
 
-- [Opencore Team](https://dortania.github.io/getting-started/)
+- [OpenCore Team](https://dortania.github.io/getting-started/)
