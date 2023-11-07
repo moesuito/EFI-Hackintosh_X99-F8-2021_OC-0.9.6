@@ -62,7 +62,8 @@ Blackmagic RAW
 
 Geekbench 6 CPU and GPU
 
-- ** Cooming soon **
+![Geekbench](https://github.com/moesuito/Hackintosh_EFI_X99-F8_Xeon-E5-1660-V3_Radeon-RX6600/assets/57041838/b02d3741-35f3-4ccd-b5ce-9ed96ecc7634)
+
 
 Cinebench R23
 
