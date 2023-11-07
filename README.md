@@ -2,7 +2,7 @@
 
 ## Features
 - MacOS Ventura 14.1 Support
-- Fenvi HB-1200 (BCM4360) Full Support (Please patch with OpenCore Legacy Patcher after fresh install)
+- Fenvi HB-1200 (BCM4360) Full Support (Please patch with <a href="https://github.com/dortania/OpenCore-Legacy-Patcher"> OpenCore Legacy Patcher</a> after fresh install)
 - AMD RNDA1 and RDNA2 Support (agdpmod-pikera)
 - All USBs mapped
 - Only two rear USB 3.0 (bottom ports) is not working (Thanks XHCI Port Limit!)
@@ -10,7 +10,7 @@
 - Supports All Haswell-E CPUs
 - Support for Overclocking (Unlocked LGA-2011v3 Core i7's and 16XX-V3 Xeon)
 - Support for Unlock Turbo Boost (V3's Xeon)
-- Support for RevCPU Name (Corpnewt)
+- Support for <a href="https://github.com/corpnewt/CPU-Name"> CPU-Name</a> (by: <a href="https://github.com/corpnewt/"> corpnewt</a>)
 - SMBIOS: MacPro7,1
 
 ![Captura de Tela 2023-11-06 às 21 47 46 copy](https://github.com/moesuito/EFI-Hackintosh_X99-F8-2021_OC-0.9.6/assets/57041838/6ae25a2f-feaf-4c6a-848e-b0f78403eaa2)
@@ -39,6 +39,7 @@
 ## **What doesn't work**
 - Sleep
 - Optical Digital out
+- Resizable BAR (Even with ResizeAppleGpuBars on)
 
 ## BIOS Settings
 
